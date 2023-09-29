@@ -197,10 +197,13 @@ margin-top: 200px;
     border: solid 1px #020202;
     margin-right: 47%;
     border-radius: 2px;
-    width: 40px;
+    width:3em;
     height: 35px;
     margin-top: 10em;
     color: #020202;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
 }
 .pokemon__name{
     width: 100%;
